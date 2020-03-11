@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target":"es6",
+  "removeComments":true  
+  },
+  "files": [
+    "04-exos.ts"
+  ]
+}
